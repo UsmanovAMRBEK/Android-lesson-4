@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Android Lesson 004</string>
+    <string name="layer2_text1">Stockholm,\nSweden</string>
+    <string name="layer2_text2">Tue, Jun 30</string>
+    <string name="layer3_text1">19</string>
+    <string name="layer3_text2">Rainy</string>
+    <string name="layer3_text3">°</string>
+    <string name="layer3_text4">c</string>
+
+    <string name="layer4_text1_1">RainFall</string>
+    <string name="layer4_text1_2">3cm</string>
+    <string name="layer4_text2_1">Wind</string>
+    <string name="layer4_text2_2">19km/h</string>
+    <string name="layer4_text3_1">Humidity</string>
+    <string name="layer4_text3_2">64%</string>
+
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="next_7days">Next 7 Days</string>
+
+    <string name="layer_6_1_1">11:00</string>
+    <string name="layer_6_1_2">20 °</string>
+    <string name="layer_6_2_1">now</string>
+    <string name="layer_6_2_2">19 °</string>
+    <string name="layer_6_3_1">13:00</string>
+    <string name="layer_6_3_2">21 °</string>
+    <string name="layer_6_4_1">14:00</string>
+    <string name="layer_6_4_2">20 °</string>
+    <string name="layer_6_5_1">15:00</string>
+    <string name="layer_6_5_2">20°</string>
+    <string name="layer_6_6_1">16:00</string>
+    <string name="layer_6_6_2">19 °</string>
+
+    <!-- Screen 2 -->
+    <string name="screen2_layer1_text1">Next 7 Days</string>
+    <string name="screen2_layer2_text1">Tommorow</string>
+    <string name="screen2_layer2_text2">22 °</string>
+
+    <string name="screen2_layer2_text3">1 cm</string>
+    <string name="screen2_layer2_text4">15 km/h</string>
+    <string name="screen2_layer2_text5">50 %</string>
+
+    <string name="screen2_layer3_text1_1">Thursday</string>
+    <string name="screen2_layer3_text1_2">21 °</string>
+    <string name="screen2_layer3_text2_1">Friday     </string>
+    <string name="screen2_layer3_text2_2">24 °</string>
+    <string name="screen2_layer3_text3_1">Saturday</string>
+    <string name="screen2_layer3_text3_2">18 °</string>
+    <string name="screen2_layer3_text4_1">Sunday   </string>
+    <string name="screen2_layer3_text4_2">12 °</string>
+    <string name="screen2_layer3_text5_1">Monday  </string>
+    <string name="screen2_layer3_text5_2">16 °</string>
+    <string name="screen2_layer3_text6_1">Tuesday </string>
+    <string name="screen2_layer3_text6_2">18 °</string>
+
+
+
+
+</resources>
